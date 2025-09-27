@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+__pycache__/
+.env
+.venv/
+venv/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
+data/raw/*
+\!data/raw/README.md
